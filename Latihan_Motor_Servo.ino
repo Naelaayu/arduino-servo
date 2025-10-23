@@ -26,6 +26,8 @@ void loop() {
     Serial.println("Putar 0 Derajat");
     motorServo.write(0);
   }
-  delay(100);
+  delay(2000);
 
 }
+
+// coba commit
